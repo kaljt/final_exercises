@@ -1,0 +1,1 @@
+#Currently using ruby-doc.org because of the quick access to object methods
